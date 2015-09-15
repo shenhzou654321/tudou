@@ -8,6 +8,12 @@
 
 #import "DisResultModel.h"
 
+
+
+
+
+
+
 @implementation DisResultModel
 
 @end

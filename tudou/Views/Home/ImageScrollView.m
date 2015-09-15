@@ -13,6 +13,7 @@
 {
     NSTimer *_timer;
     int _pageNumber;
+    
 }
 
 @end
